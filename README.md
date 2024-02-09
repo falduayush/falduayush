@@ -4,6 +4,14 @@
 </p>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
+<a href="https://komarev.com/ghpvc/?username=falduayush">
+  <img align="center" src="https://komarev.com/ghpvc/?username=falduayush&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor"/>
+</a>
+<p>
+  
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falduayush" alt="anydevo0" /></a> </p>
 
 - 🔭 I’m currently working on **building projects**
